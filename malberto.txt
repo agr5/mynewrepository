@@ -1,1 +1,3 @@
 Hello this is my first trial at home using git, and I am pretty excited about it
+
+Well now lets get down to bussines and start this new trial
